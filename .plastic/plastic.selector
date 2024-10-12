@@ -1,0 +1,4 @@
+repository "SwordVsGuns@alphasolutions2k23@cloud"
+  path "/"
+    br "/main"
+    co "/main"
