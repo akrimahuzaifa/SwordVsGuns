@@ -1,3 +1,4 @@
 repository "SwordVsGuns@alphasolutions2k23@cloud"
   path "/"
-    smartbranch "/main/AHK-VHS_Effect"
+    br "/main"
+    co "/main"
